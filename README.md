@@ -15,7 +15,7 @@ The model produced in the MechaCarChallenge.RStudio file is shown below:
 3. The linear model does have a strong linear correlation for mpg to the other factors, which is indicated by an r-squared value of 0.71.
 
 
-##Summary Statistics on Suspension Coils
+## Summary Statistics on Suspension Coils
 The dataset Suspension_coil.csv contains vehicle IDs, the corresponding manufacturing lot and the PSI of the suspension coil. The PSI values were summarized in the total summary table below: 
 <p align="center" width="100%">
     <img width="40%" src=https://user-images.githubusercontent.com/105991478/192391572-017d4b4f-0439-40d3-bfed-51accfc5180a.png>
