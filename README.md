@@ -24,3 +24,10 @@ For all manufacturing lots, the variance is below the required 100 pounds per sq
 <p align="center" width="100%">
     <img width="40%" src=https://user-images.githubusercontent.com/105991478/192392075-3d1ea835-fe39-4e70-a604-e36acab11ad1.png>
 </p>
+
+## T-Tests on Suspension Coils 
+All lots of suspension coils were compared against the null hypothesis that the mean PSI for the suspension coils was 1500 PSI. The analyssis of all lots gave a p-value of 1. Because this is higher than 0.05, we cannot reject the null hypothesis. 
+<p align="center" width="100%">
+    <img width="40%" src=https://user-images.githubusercontent.com/105991478/192897414-d8282dd9-2818-456a-b858-f0c9d2dcaf92.png>
+</p>
+
