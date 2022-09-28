@@ -36,3 +36,10 @@ T-Tests were also performed for each lot. Only lot Lot 3 had a p-value less than
     <img width="40%" src=https://user-images.githubusercontent.com/105991478/192898467-a963b7f8-70ac-46ba-9a0d-70f1affd408b.png>
 </p>
 
+## Study Design: MechaCar vs. Competition
+An additional sellimg metric that could be important to the customer would be the safety rating of the car. 
+The null hypothesis would be that the car has a safety rating that is equal to the competitors. 
+The alternative hypothesis would be that the car's safety rating is statistically different from the competitors. 
+A t-test would make sense to run here because the safety rating could be compared to the safety ratings of several different competitors to see if it is significantly higher (or lower). 
+
+The data needed is safety rating values for competitors and for Mechacar. It would potentially be helpful to include ratings from different sources if the scoring rubrics were consistent. 
