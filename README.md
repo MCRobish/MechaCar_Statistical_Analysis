@@ -26,8 +26,13 @@ For all manufacturing lots, the variance is below the required 100 pounds per sq
 </p>
 
 ## T-Tests on Suspension Coils 
-All lots of suspension coils were compared against the null hypothesis that the mean PSI for the suspension coils was 1500 PSI. The analyssis of all lots gave a p-value of 1. Because this is higher than 0.05, we cannot reject the null hypothesis. 
+All lots of suspension coils were compared against the null hypothesis that the mean PSI for the suspension coils was 1500 PSI. The analyssis of all lots gave a p-value of 0.06. Because this is higher than 0.05, we cannot reject the null hypothesis. 
 <p align="center" width="100%">
     <img width="40%" src=https://user-images.githubusercontent.com/105991478/192897414-d8282dd9-2818-456a-b858-f0c9d2dcaf92.png>
+</p>
+
+T-Tests were also performed for each lot. Only lot Lot 3 had a p-value less than 0.05, which means that the null hypothesis can be rejected. This is consistent when looking at the statistical summary data from the table above because Lot 3 has a mean value that is furthest from 1500 PSI. The T-test results for Lot 3 are shown below: 
+<p align="center" width="100%">
+    <img width="40%" src=https://user-images.githubusercontent.com/105991478/192898467-a963b7f8-70ac-46ba-9a0d-70f1affd408b.png>
 </p>
 
